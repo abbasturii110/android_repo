@@ -1,2 +1,2 @@
 # android_repo
-It's just for learning purpose of Git
+It's just for learning purpose to see what changes have been occured
